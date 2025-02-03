@@ -31,3 +31,8 @@ Change name "MedicalImagePredictor" according to your project
 
 # Scaffolding (Reverse Engineering)  
 
+Change Server and Database according to your server name and database 
+
+    dotnet ef dbcontext scaffold "Server=ADIL-PC\\SQLEXPRESS;Database=MIP;Integrated Security=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer
+
+    
