@@ -35,4 +35,6 @@ Change Server and Database according to your server name and database
 
     dotnet ef dbcontext scaffold "Server=ADIL-PC\\SQLEXPRESS;Database=MIP;Integrated Security=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer
 
-    
+"In Program.cs class write my code and chage it according to your project" 
+
+"In the project directory, create Model.cs insert my code and change it according to your project"
